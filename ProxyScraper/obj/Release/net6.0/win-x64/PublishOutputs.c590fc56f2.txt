@@ -1,0 +1,2 @@
+V:\My Project\Checkers VoX DoX\ProxyScraper\ProxyScraper\bin\Release\net6.0\publish\win-x64\ProxyScraper.pdb
+V:\My Project\Checkers VoX DoX\ProxyScraper\ProxyScraper\bin\Release\net6.0\publish\win-x64\ProxyScraper.exe

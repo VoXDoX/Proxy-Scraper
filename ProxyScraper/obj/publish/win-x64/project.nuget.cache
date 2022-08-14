@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmxuHEjKnWS2s7lY8eua8W2wE4vTY4HK+08NIo6D4LHNDryFB6LaUDfQrvaKzk5VG2MJIxbC3XhJaRo8ZxBLeQ==",
+  "success": true,
+  "projectFilePath": "V:\\My Project\\Checkers VoX DoX\\ProxyScraper\\ProxyScraper\\ProxyScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вокся\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.7\\microsoft.netcore.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\Вокся\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\Вокся\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all
+https://www.proxyscan.io/download?type=http
+https://www.proxyscan.io/download?type=https
+https://spys.one/en/https-ssl-proxy/
+https://premiumproxy.net/https-ssl-proxy-list
+https://premiumproxy.net/http-proxy-list
+http://free-proxy.cz/en/proxylist/country/all/https/ping/all

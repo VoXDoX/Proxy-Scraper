@@ -1,0 +1,3 @@
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all
+https://www.proxyscan.io/download?type=socks4
+https://www.proxy-list.download/SOCKS4
